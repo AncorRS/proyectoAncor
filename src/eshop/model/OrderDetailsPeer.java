@@ -7,7 +7,7 @@ import java.sql.Statement;
 import eshop.beans.CartItem;
 
 public class OrderDetailsPeer {
-
+/*hsagdfjsa */
   public static void insertOrderDetails(Statement stmt, long orderId,
       Hashtable<String, CartItem> shoppingCart) throws SQLException {
     String sql;
